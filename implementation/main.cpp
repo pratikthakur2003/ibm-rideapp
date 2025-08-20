@@ -1,9 +1,6 @@
 #include "../headers/jsonUtilities.h"
 #include "../headers/menu.h"
 
-// jsonUtilities j;
-// menu m;
-
 int main() {
     j.loadUsers("users.json");
     j.loadVehicles("vehicles.json");
