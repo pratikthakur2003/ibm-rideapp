@@ -2,9 +2,8 @@
 #define RIDE_H
 
 #include <string>
-
 #include <vector>
-#include "../json.hpp"
+#include "../external/json.hpp"
 using json = nlohmann::json;
 
 struct Ride {

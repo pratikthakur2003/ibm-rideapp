@@ -3,7 +3,7 @@
 using namespace std;
 
 jsonUtilities j;
-std::string availableRidersFile = "available_riders.json";
+std::string availableRidersFile = "files/available_riders.json";
 
 json jsonUtilities::loadJson(const string &filename)
 {

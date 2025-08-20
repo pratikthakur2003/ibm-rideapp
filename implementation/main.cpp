@@ -2,9 +2,9 @@
 #include "../headers/menu.h"
 
 int main() {
-    j.loadUsers("users.json");
-    j.loadVehicles("vehicles.json");
-    j.loadRides("rides.json");
+    j.loadUsers("files/users.json");
+    j.loadVehicles("files/vehicles.json");
+    j.loadRides("files/rides.json");
     int choice;
     while (true) {
         std::cout << "\n=== Ride-Hailing App ===\n";

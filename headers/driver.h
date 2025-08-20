@@ -21,12 +21,12 @@ public:
             Vehicle *v = findVehicleByDriver(u.user_id);
             if (v)
             {
-                cout << "\n--- Vehicle Info ---\n";
-                cout << "Make: " << v->make << "\n";
-                cout << "Model: " << v->model << "\n";
-                cout << "Year: " << v->year << "\n";
-                cout << "Registration: " << v->registration_number << "\n";
-                cout << "Color: " << v->color << "\n";
+                std::cout << "\n--- Vehicle Info ---\n";
+                std::cout << "Make: " << v->make << "\n";
+                std::cout << "Model: " << v->model << "\n";
+                std::cout << "Year: " << v->year << "\n";
+                std::cout << "Registration: " << v->registration_number << "\n";
+                std::cout << "Color: " << v->color << "\n";
             }
         }
     }
