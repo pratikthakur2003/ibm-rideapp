@@ -1,0 +1,1802 @@
+[
+  {
+    "vehicle_id": 1,
+    "driver_id": 199,
+    "make": "Toyota",
+    "model": "Creta",
+    "year": 2020,
+    "registration_number": "MH42IZ9960",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 2,
+    "driver_id": 987,
+    "make": "Honda",
+    "model": "XUV500",
+    "year": 2023,
+    "registration_number": "MH78QM6448",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 3,
+    "driver_id": 160,
+    "make": "Honda",
+    "model": "Tiago",
+    "year": 2020,
+    "registration_number": "MH40PN7311",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 4,
+    "driver_id": 419,
+    "make": "Tata",
+    "model": "Innova",
+    "year": 2022,
+    "registration_number": "MH96HL8792",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 5,
+    "driver_id": 25,
+    "make": "Honda",
+    "model": "Innova",
+    "year": 2024,
+    "registration_number": "MH80XB9172",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 6,
+    "driver_id": 902,
+    "make": "Mahindra",
+    "model": "Tiago",
+    "year": 2018,
+    "registration_number": "MH78VQ4806",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 7,
+    "driver_id": 560,
+    "make": "Mahindra",
+    "model": "Fortuner",
+    "year": 2023,
+    "registration_number": "MH59FL5019",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 8,
+    "driver_id": 951,
+    "make": "Hyundai",
+    "model": "Nexon",
+    "year": 2021,
+    "registration_number": "MH62HI8305",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 9,
+    "driver_id": 541,
+    "make": "Toyota",
+    "model": "Swift",
+    "year": 2022,
+    "registration_number": "MH11WE5864",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 10,
+    "driver_id": 261,
+    "make": "Honda",
+    "model": "Ertiga",
+    "year": 2018,
+    "registration_number": "MH69VU4803",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 11,
+    "driver_id": 322,
+    "make": "Maruti Suzuki",
+    "model": "Fortuner",
+    "year": 2024,
+    "registration_number": "MH25ZB2606",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 12,
+    "driver_id": 860,
+    "make": "Toyota",
+    "model": "Fortuner",
+    "year": 2019,
+    "registration_number": "MH86QX2459",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 13,
+    "driver_id": 349,
+    "make": "Toyota",
+    "model": "Fortuner",
+    "year": 2024,
+    "registration_number": "MH53HN6761",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 14,
+    "driver_id": 321,
+    "make": "Maruti Suzuki",
+    "model": "Innova",
+    "year": 2018,
+    "registration_number": "MH24XF9894",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 15,
+    "driver_id": 717,
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "year": 2018,
+    "registration_number": "MH53TS5545",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 16,
+    "driver_id": 840,
+    "make": "Mahindra",
+    "model": "Innova",
+    "year": 2023,
+    "registration_number": "MH63UJ8385",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 17,
+    "driver_id": 156,
+    "make": "Hyundai",
+    "model": "Innova",
+    "year": 2020,
+    "registration_number": "MH59ZT3426",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 18,
+    "driver_id": 984,
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "year": 2024,
+    "registration_number": "MH88PW4461",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 19,
+    "driver_id": 49,
+    "make": "Tata",
+    "model": "Nexon",
+    "year": 2022,
+    "registration_number": "MH31XT7462",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 20,
+    "driver_id": 169,
+    "make": "Toyota",
+    "model": "Swift",
+    "year": 2020,
+    "registration_number": "MH67ZL4030",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 21,
+    "driver_id": 454,
+    "make": "Hyundai",
+    "model": "Innova",
+    "year": 2023,
+    "registration_number": "MH74NL6371",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 22,
+    "driver_id": 768,
+    "make": "Tata",
+    "model": "Ertiga",
+    "year": 2018,
+    "registration_number": "MH52QT6145",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 23,
+    "driver_id": 233,
+    "make": "Hyundai",
+    "model": "Nexon",
+    "year": 2019,
+    "registration_number": "MH39LJ4880",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 24,
+    "driver_id": 122,
+    "make": "Maruti Suzuki",
+    "model": "Innova",
+    "year": 2019,
+    "registration_number": "MH61QG8530",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 25,
+    "driver_id": 394,
+    "make": "Toyota",
+    "model": "Creta",
+    "year": 2022,
+    "registration_number": "MH15XZ3139",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 26,
+    "driver_id": 564,
+    "make": "Tata",
+    "model": "Swift",
+    "year": 2023,
+    "registration_number": "MH90IX2416",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 27,
+    "driver_id": 247,
+    "make": "Maruti Suzuki",
+    "model": "Fortuner",
+    "year": 2018,
+    "registration_number": "MH46AA4005",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 28,
+    "driver_id": 708,
+    "make": "Honda",
+    "model": "XUV500",
+    "year": 2019,
+    "registration_number": "MH25JF1482",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 29,
+    "driver_id": 60,
+    "make": "Honda",
+    "model": "Swift",
+    "year": 2018,
+    "registration_number": "MH93XP3459",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 30,
+    "driver_id": 708,
+    "make": "Mahindra",
+    "model": "XUV500",
+    "year": 2024,
+    "registration_number": "MH82VA4632",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 31,
+    "driver_id": 566,
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "year": 2018,
+    "registration_number": "MH90RY8973",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 32,
+    "driver_id": 617,
+    "make": "Toyota",
+    "model": "Innova",
+    "year": 2024,
+    "registration_number": "MH40UI9105",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 33,
+    "driver_id": 858,
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "year": 2024,
+    "registration_number": "MH65TP4716",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 34,
+    "driver_id": 496,
+    "make": "Hyundai",
+    "model": "Nexon",
+    "year": 2023,
+    "registration_number": "MH57VY3232",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 35,
+    "driver_id": 520,
+    "make": "Hyundai",
+    "model": "XUV500",
+    "year": 2020,
+    "registration_number": "MH95MK8986",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 36,
+    "driver_id": 216,
+    "make": "Honda",
+    "model": "XUV500",
+    "year": 2021,
+    "registration_number": "MH76MC7501",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 37,
+    "driver_id": 81,
+    "make": "Tata",
+    "model": "Fortuner",
+    "year": 2023,
+    "registration_number": "MH24MZ9131",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 38,
+    "driver_id": 628,
+    "make": "Honda",
+    "model": "Swift",
+    "year": 2019,
+    "registration_number": "MH96LA6789",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 39,
+    "driver_id": 981,
+    "make": "Maruti Suzuki",
+    "model": "Fortuner",
+    "year": 2020,
+    "registration_number": "MH96DO9671",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 40,
+    "driver_id": 672,
+    "make": "Hyundai",
+    "model": "Tiago",
+    "year": 2018,
+    "registration_number": "MH37SS5138",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 41,
+    "driver_id": 124,
+    "make": "Tata",
+    "model": "City",
+    "year": 2024,
+    "registration_number": "MH42AU3332",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 42,
+    "driver_id": 661,
+    "make": "Hyundai",
+    "model": "Fortuner",
+    "year": 2019,
+    "registration_number": "MH93IA6682",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 43,
+    "driver_id": 205,
+    "make": "Mahindra",
+    "model": "City",
+    "year": 2020,
+    "registration_number": "MH80QR1119",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 44,
+    "driver_id": 641,
+    "make": "Hyundai",
+    "model": "XUV500",
+    "year": 2020,
+    "registration_number": "MH16XI1725",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 45,
+    "driver_id": 22,
+    "make": "Maruti Suzuki",
+    "model": "Creta",
+    "year": 2024,
+    "registration_number": "MH77HX5828",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 46,
+    "driver_id": 708,
+    "make": "Tata",
+    "model": "Tiago",
+    "year": 2024,
+    "registration_number": "MH50DV1562",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 47,
+    "driver_id": 371,
+    "make": "Tata",
+    "model": "Fortuner",
+    "year": 2019,
+    "registration_number": "MH14KQ9317",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 48,
+    "driver_id": 542,
+    "make": "Toyota",
+    "model": "Ertiga",
+    "year": 2018,
+    "registration_number": "MH93GI8471",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 49,
+    "driver_id": 703,
+    "make": "Honda",
+    "model": "XUV500",
+    "year": 2018,
+    "registration_number": "MH65FS3641",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 50,
+    "driver_id": 952,
+    "make": "Mahindra",
+    "model": "XUV500",
+    "year": 2020,
+    "registration_number": "MH13ZQ7747",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 51,
+    "driver_id": 323,
+    "make": "Honda",
+    "model": "Fortuner",
+    "year": 2023,
+    "registration_number": "MH48CN6402",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 52,
+    "driver_id": 394,
+    "make": "Honda",
+    "model": "Nexon",
+    "year": 2018,
+    "registration_number": "MH29LR5793",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 53,
+    "driver_id": 857,
+    "make": "Tata",
+    "model": "Fortuner",
+    "year": 2020,
+    "registration_number": "MH87IE7102",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 54,
+    "driver_id": 697,
+    "make": "Tata",
+    "model": "Swift",
+    "year": 2022,
+    "registration_number": "MH87VO2281",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 55,
+    "driver_id": 443,
+    "make": "Honda",
+    "model": "Swift",
+    "year": 2024,
+    "registration_number": "MH50YC8505",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 56,
+    "driver_id": 812,
+    "make": "Mahindra",
+    "model": "City",
+    "year": 2020,
+    "registration_number": "MH51OD8052",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 57,
+    "driver_id": 928,
+    "make": "Honda",
+    "model": "Nexon",
+    "year": 2018,
+    "registration_number": "MH94BT7975",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 58,
+    "driver_id": 868,
+    "make": "Toyota",
+    "model": "Fortuner",
+    "year": 2022,
+    "registration_number": "MH28VP1302",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 59,
+    "driver_id": 610,
+    "make": "Honda",
+    "model": "Creta",
+    "year": 2022,
+    "registration_number": "MH51KY8257",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 60,
+    "driver_id": 884,
+    "make": "Tata",
+    "model": "City",
+    "year": 2022,
+    "registration_number": "MH99JZ1943",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 61,
+    "driver_id": 116,
+    "make": "Maruti Suzuki",
+    "model": "Creta",
+    "year": 2019,
+    "registration_number": "MH22FF1494",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 62,
+    "driver_id": 162,
+    "make": "Toyota",
+    "model": "Nexon",
+    "year": 2019,
+    "registration_number": "MH88EN7685",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 63,
+    "driver_id": 960,
+    "make": "Maruti Suzuki",
+    "model": "Creta",
+    "year": 2021,
+    "registration_number": "MH87PG6600",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 64,
+    "driver_id": 929,
+    "make": "Hyundai",
+    "model": "Innova",
+    "year": 2022,
+    "registration_number": "MH39BG9016",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 65,
+    "driver_id": 830,
+    "make": "Mahindra",
+    "model": "Fortuner",
+    "year": 2024,
+    "registration_number": "MH63LL5244",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 66,
+    "driver_id": 897,
+    "make": "Honda",
+    "model": "Tiago",
+    "year": 2023,
+    "registration_number": "MH25TK9910",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 67,
+    "driver_id": 890,
+    "make": "Mahindra",
+    "model": "Nexon",
+    "year": 2019,
+    "registration_number": "MH19NR7848",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 68,
+    "driver_id": 98,
+    "make": "Maruti Suzuki",
+    "model": "Nexon",
+    "year": 2021,
+    "registration_number": "MH60GE3041",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 69,
+    "driver_id": 731,
+    "make": "Maruti Suzuki",
+    "model": "XUV500",
+    "year": 2023,
+    "registration_number": "MH52TR3408",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 70,
+    "driver_id": 282,
+    "make": "Maruti Suzuki",
+    "model": "Tiago",
+    "year": 2018,
+    "registration_number": "MH40FA1337",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 71,
+    "driver_id": 858,
+    "make": "Honda",
+    "model": "Creta",
+    "year": 2021,
+    "registration_number": "MH46WN3052",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 72,
+    "driver_id": 78,
+    "make": "Honda",
+    "model": "Ertiga",
+    "year": 2021,
+    "registration_number": "MH72NH2881",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 73,
+    "driver_id": 87,
+    "make": "Honda",
+    "model": "XUV500",
+    "year": 2020,
+    "registration_number": "MH75HC2850",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 74,
+    "driver_id": 162,
+    "make": "Honda",
+    "model": "Tiago",
+    "year": 2019,
+    "registration_number": "MH41EA7618",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 75,
+    "driver_id": 825,
+    "make": "Tata",
+    "model": "Creta",
+    "year": 2024,
+    "registration_number": "MH35RB8928",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 76,
+    "driver_id": 812,
+    "make": "Hyundai",
+    "model": "Ertiga",
+    "year": 2021,
+    "registration_number": "MH73TF8332",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 77,
+    "driver_id": 265,
+    "make": "Tata",
+    "model": "Tiago",
+    "year": 2018,
+    "registration_number": "MH43FJ3699",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 78,
+    "driver_id": 264,
+    "make": "Maruti Suzuki",
+    "model": "Tiago",
+    "year": 2022,
+    "registration_number": "MH17VP4620",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 79,
+    "driver_id": 80,
+    "make": "Mahindra",
+    "model": "Fortuner",
+    "year": 2022,
+    "registration_number": "MH70JY4898",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 80,
+    "driver_id": 600,
+    "make": "Hyundai",
+    "model": "Creta",
+    "year": 2024,
+    "registration_number": "MH31OY8949",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 81,
+    "driver_id": 255,
+    "make": "Hyundai",
+    "model": "Tiago",
+    "year": 2021,
+    "registration_number": "MH65JW8947",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 82,
+    "driver_id": 78,
+    "make": "Hyundai",
+    "model": "Innova",
+    "year": 2023,
+    "registration_number": "MH80SI1904",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 83,
+    "driver_id": 25,
+    "make": "Toyota",
+    "model": "Fortuner",
+    "year": 2022,
+    "registration_number": "MH58HK1616",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 84,
+    "driver_id": 819,
+    "make": "Hyundai",
+    "model": "Swift",
+    "year": 2022,
+    "registration_number": "MH62LX1318",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 85,
+    "driver_id": 640,
+    "make": "Toyota",
+    "model": "City",
+    "year": 2024,
+    "registration_number": "MH61DP6645",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 86,
+    "driver_id": 406,
+    "make": "Tata",
+    "model": "Fortuner",
+    "year": 2022,
+    "registration_number": "MH59DM7274",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 87,
+    "driver_id": 49,
+    "make": "Toyota",
+    "model": "XUV500",
+    "year": 2021,
+    "registration_number": "MH86AU8425",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 88,
+    "driver_id": 383,
+    "make": "Maruti Suzuki",
+    "model": "City",
+    "year": 2019,
+    "registration_number": "MH55VC2446",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 89,
+    "driver_id": 654,
+    "make": "Tata",
+    "model": "Nexon",
+    "year": 2024,
+    "registration_number": "MH54YC6549",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 90,
+    "driver_id": 669,
+    "make": "Toyota",
+    "model": "Nexon",
+    "year": 2019,
+    "registration_number": "MH16RB3159",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 91,
+    "driver_id": 617,
+    "make": "Toyota",
+    "model": "Ertiga",
+    "year": 2022,
+    "registration_number": "MH74EX5791",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 92,
+    "driver_id": 428,
+    "make": "Maruti Suzuki",
+    "model": "City",
+    "year": 2020,
+    "registration_number": "MH13KC7501",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 93,
+    "driver_id": 503,
+    "make": "Maruti Suzuki",
+    "model": "Tiago",
+    "year": 2018,
+    "registration_number": "MH20TH7683",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 94,
+    "driver_id": 809,
+    "make": "Honda",
+    "model": "Swift",
+    "year": 2018,
+    "registration_number": "MH24FD4874",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 95,
+    "driver_id": 671,
+    "make": "Tata",
+    "model": "Swift",
+    "year": 2020,
+    "registration_number": "MH39RH4616",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 96,
+    "driver_id": 875,
+    "make": "Honda",
+    "model": "Swift",
+    "year": 2020,
+    "registration_number": "MH55OT9853",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 97,
+    "driver_id": 81,
+    "make": "Maruti Suzuki",
+    "model": "Fortuner",
+    "year": 2019,
+    "registration_number": "MH14EX3743",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 98,
+    "driver_id": 605,
+    "make": "Toyota",
+    "model": "Creta",
+    "year": 2024,
+    "registration_number": "MH96VT1944",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 99,
+    "driver_id": 606,
+    "make": "Mahindra",
+    "model": "Swift",
+    "year": 2019,
+    "registration_number": "MH79AU5004",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 100,
+    "driver_id": 960,
+    "make": "Maruti Suzuki",
+    "model": "Fortuner",
+    "year": 2020,
+    "registration_number": "MH92XJ6825",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 101,
+    "driver_id": 126,
+    "make": "Honda",
+    "model": "XUV500",
+    "year": 2021,
+    "registration_number": "MH97UP9882",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 102,
+    "driver_id": 884,
+    "make": "Mahindra",
+    "model": "Tiago",
+    "year": 2018,
+    "registration_number": "MH57ID4880",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 103,
+    "driver_id": 429,
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "year": 2022,
+    "registration_number": "MH99GF2859",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 104,
+    "driver_id": 146,
+    "make": "Hyundai",
+    "model": "Swift",
+    "year": 2023,
+    "registration_number": "MH80JL1988",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 105,
+    "driver_id": 951,
+    "make": "Tata",
+    "model": "Fortuner",
+    "year": 2018,
+    "registration_number": "MH41YZ8252",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 106,
+    "driver_id": 579,
+    "make": "Tata",
+    "model": "Creta",
+    "year": 2018,
+    "registration_number": "MH84LU4482",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 107,
+    "driver_id": 572,
+    "make": "Tata",
+    "model": "XUV500",
+    "year": 2019,
+    "registration_number": "MH26JC2069",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 108,
+    "driver_id": 146,
+    "make": "Hyundai",
+    "model": "Nexon",
+    "year": 2024,
+    "registration_number": "MH73QR7369",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 109,
+    "driver_id": 801,
+    "make": "Honda",
+    "model": "Ertiga",
+    "year": 2023,
+    "registration_number": "MH52MK7844",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 110,
+    "driver_id": 728,
+    "make": "Mahindra",
+    "model": "Innova",
+    "year": 2020,
+    "registration_number": "MH59ZC7596",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 111,
+    "driver_id": 917,
+    "make": "Tata",
+    "model": "Tiago",
+    "year": 2023,
+    "registration_number": "MH62JU1420",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 112,
+    "driver_id": 731,
+    "make": "Honda",
+    "model": "Ertiga",
+    "year": 2018,
+    "registration_number": "MH89YY5937",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 113,
+    "driver_id": 984,
+    "make": "Tata",
+    "model": "Creta",
+    "year": 2019,
+    "registration_number": "MH53MI2192",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 114,
+    "driver_id": 782,
+    "make": "Honda",
+    "model": "Swift",
+    "year": 2023,
+    "registration_number": "MH29IV7540",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 115,
+    "driver_id": 185,
+    "make": "Tata",
+    "model": "Creta",
+    "year": 2024,
+    "registration_number": "MH39CF8217",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 116,
+    "driver_id": 349,
+    "make": "Mahindra",
+    "model": "Fortuner",
+    "year": 2022,
+    "registration_number": "MH74AR5758",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 117,
+    "driver_id": 86,
+    "make": "Mahindra",
+    "model": "Ertiga",
+    "year": 2020,
+    "registration_number": "MH20NA5915",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 118,
+    "driver_id": 250,
+    "make": "Hyundai",
+    "model": "Ertiga",
+    "year": 2023,
+    "registration_number": "MH61MR8948",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 119,
+    "driver_id": 987,
+    "make": "Hyundai",
+    "model": "Ertiga",
+    "year": 2020,
+    "registration_number": "MH84KR6844",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 120,
+    "driver_id": 721,
+    "make": "Tata",
+    "model": "Swift",
+    "year": 2019,
+    "registration_number": "MH29OB3130",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 121,
+    "driver_id": 34,
+    "make": "Tata",
+    "model": "XUV500",
+    "year": 2021,
+    "registration_number": "MH50PB8908",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 122,
+    "driver_id": 443,
+    "make": "Maruti Suzuki",
+    "model": "City",
+    "year": 2019,
+    "registration_number": "MH20IG8138",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 123,
+    "driver_id": 668,
+    "make": "Honda",
+    "model": "XUV500",
+    "year": 2022,
+    "registration_number": "MH32CN1609",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 124,
+    "driver_id": 269,
+    "make": "Honda",
+    "model": "XUV500",
+    "year": 2024,
+    "registration_number": "MH85FU1921",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 125,
+    "driver_id": 996,
+    "make": "Mahindra",
+    "model": "Nexon",
+    "year": 2022,
+    "registration_number": "MH67WF6468",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 126,
+    "driver_id": 56,
+    "make": "Maruti Suzuki",
+    "model": "XUV500",
+    "year": 2021,
+    "registration_number": "MH83WN8103",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 127,
+    "driver_id": 251,
+    "make": "Tata",
+    "model": "XUV500",
+    "year": 2024,
+    "registration_number": "MH75UQ1445",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 128,
+    "driver_id": 107,
+    "make": "Mahindra",
+    "model": "City",
+    "year": 2020,
+    "registration_number": "MH21BW6428",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 129,
+    "driver_id": 531,
+    "make": "Toyota",
+    "model": "Creta",
+    "year": 2024,
+    "registration_number": "MH48SP4803",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 130,
+    "driver_id": 726,
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "year": 2021,
+    "registration_number": "MH38PY2671",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 131,
+    "driver_id": 290,
+    "make": "Mahindra",
+    "model": "Innova",
+    "year": 2020,
+    "registration_number": "MH25RL2900",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 132,
+    "driver_id": 815,
+    "make": "Honda",
+    "model": "Swift",
+    "year": 2023,
+    "registration_number": "MH68AT4546",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 133,
+    "driver_id": 867,
+    "make": "Maruti Suzuki",
+    "model": "XUV500",
+    "year": 2020,
+    "registration_number": "MH19RH7464",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 134,
+    "driver_id": 497,
+    "make": "Mahindra",
+    "model": "Creta",
+    "year": 2019,
+    "registration_number": "MH86JQ7426",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 135,
+    "driver_id": 559,
+    "make": "Maruti Suzuki",
+    "model": "City",
+    "year": 2020,
+    "registration_number": "MH32WD2730",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 136,
+    "driver_id": 666,
+    "make": "Honda",
+    "model": "Ertiga",
+    "year": 2022,
+    "registration_number": "MH48VW6858",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 137,
+    "driver_id": 574,
+    "make": "Mahindra",
+    "model": "City",
+    "year": 2018,
+    "registration_number": "MH11IS2672",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 138,
+    "driver_id": 417,
+    "make": "Toyota",
+    "model": "City",
+    "year": 2019,
+    "registration_number": "MH34OR1704",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 139,
+    "driver_id": 107,
+    "make": "Toyota",
+    "model": "Fortuner",
+    "year": 2018,
+    "registration_number": "MH15FC1197",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 140,
+    "driver_id": 208,
+    "make": "Mahindra",
+    "model": "XUV500",
+    "year": 2023,
+    "registration_number": "MH45HW6834",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 141,
+    "driver_id": 996,
+    "make": "Hyundai",
+    "model": "Nexon",
+    "year": 2024,
+    "registration_number": "MH42RB1133",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 142,
+    "driver_id": 455,
+    "make": "Toyota",
+    "model": "Swift",
+    "year": 2021,
+    "registration_number": "MH61IQ2056",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 143,
+    "driver_id": 560,
+    "make": "Hyundai",
+    "model": "Swift",
+    "year": 2019,
+    "registration_number": "MH85OJ6558",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 144,
+    "driver_id": 54,
+    "make": "Toyota",
+    "model": "XUV500",
+    "year": 2023,
+    "registration_number": "MH27QE8324",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 145,
+    "driver_id": 531,
+    "make": "Maruti Suzuki",
+    "model": "XUV500",
+    "year": 2022,
+    "registration_number": "MH43HU3190",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 146,
+    "driver_id": 503,
+    "make": "Mahindra",
+    "model": "XUV500",
+    "year": 2021,
+    "registration_number": "MH69DT4921",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 147,
+    "driver_id": 282,
+    "make": "Toyota",
+    "model": "Tiago",
+    "year": 2019,
+    "registration_number": "MH90IV5172",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 148,
+    "driver_id": 329,
+    "make": "Honda",
+    "model": "Creta",
+    "year": 2021,
+    "registration_number": "MH56QA6500",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 149,
+    "driver_id": 251,
+    "make": "Hyundai",
+    "model": "XUV500",
+    "year": 2023,
+    "registration_number": "MH40SE2223",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 150,
+    "driver_id": 441,
+    "make": "Toyota",
+    "model": "Nexon",
+    "year": 2019,
+    "registration_number": "MH83UL4802",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 151,
+    "driver_id": 185,
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "year": 2023,
+    "registration_number": "MH77CC1266",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 152,
+    "driver_id": 264,
+    "make": "Tata",
+    "model": "Tiago",
+    "year": 2019,
+    "registration_number": "MH17TW5213",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 153,
+    "driver_id": 329,
+    "make": "Mahindra",
+    "model": "Swift",
+    "year": 2021,
+    "registration_number": "MH37KS8127",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 154,
+    "driver_id": 63,
+    "make": "Mahindra",
+    "model": "Innova",
+    "year": 2024,
+    "registration_number": "MH83IU1563",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 155,
+    "driver_id": 50,
+    "make": "Tata",
+    "model": "Ertiga",
+    "year": 2020,
+    "registration_number": "MH98IG3500",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 156,
+    "driver_id": 610,
+    "make": "Maruti Suzuki",
+    "model": "Fortuner",
+    "year": 2024,
+    "registration_number": "MH51TB1179",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 157,
+    "driver_id": 379,
+    "make": "Maruti Suzuki",
+    "model": "Tiago",
+    "year": 2018,
+    "registration_number": "MH68RQ9830",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 158,
+    "driver_id": 55,
+    "make": "Maruti Suzuki",
+    "model": "XUV500",
+    "year": 2019,
+    "registration_number": "MH78QG9059",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 159,
+    "driver_id": 903,
+    "make": "Hyundai",
+    "model": "City",
+    "year": 2022,
+    "registration_number": "MH10ID3404",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 160,
+    "driver_id": 321,
+    "make": "Hyundai",
+    "model": "Nexon",
+    "year": 2021,
+    "registration_number": "MH97EJ7751",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 161,
+    "driver_id": 890,
+    "make": "Honda",
+    "model": "Ertiga",
+    "year": 2023,
+    "registration_number": "MH74DB6530",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 162,
+    "driver_id": 415,
+    "make": "Toyota",
+    "model": "XUV500",
+    "year": 2019,
+    "registration_number": "MH33ZY3338",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 163,
+    "driver_id": 833,
+    "make": "Tata",
+    "model": "City",
+    "year": 2018,
+    "registration_number": "MH42SA1379",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 164,
+    "driver_id": 918,
+    "make": "Mahindra",
+    "model": "Creta",
+    "year": 2023,
+    "registration_number": "MH96MR1123",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 165,
+    "driver_id": 401,
+    "make": "Tata",
+    "model": "Innova",
+    "year": 2022,
+    "registration_number": "MH88WY5969",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 166,
+    "driver_id": 69,
+    "make": "Mahindra",
+    "model": "Fortuner",
+    "year": 2021,
+    "registration_number": "MH89YN8844",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 167,
+    "driver_id": 678,
+    "make": "Toyota",
+    "model": "City",
+    "year": 2018,
+    "registration_number": "MH83SJ1265",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 168,
+    "driver_id": 639,
+    "make": "Tata",
+    "model": "Nexon",
+    "year": 2018,
+    "registration_number": "MH21SX7384",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 169,
+    "driver_id": 454,
+    "make": "Mahindra",
+    "model": "Creta",
+    "year": 2024,
+    "registration_number": "MH16KV6473",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 170,
+    "driver_id": 181,
+    "make": "Maruti Suzuki",
+    "model": "Nexon",
+    "year": 2024,
+    "registration_number": "MH83VY2406",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 171,
+    "driver_id": 782,
+    "make": "Toyota",
+    "model": "City",
+    "year": 2019,
+    "registration_number": "MH96WA4782",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 172,
+    "driver_id": 890,
+    "make": "Honda",
+    "model": "XUV500",
+    "year": 2022,
+    "registration_number": "MH80VX6890",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 173,
+    "driver_id": 918,
+    "make": "Tata",
+    "model": "Nexon",
+    "year": 2020,
+    "registration_number": "MH11JN1352",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 174,
+    "driver_id": 279,
+    "make": "Hyundai",
+    "model": "Creta",
+    "year": 2024,
+    "registration_number": "MH56HK3472",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 175,
+    "driver_id": 709,
+    "make": "Toyota",
+    "model": "Innova",
+    "year": 2018,
+    "registration_number": "MH77QB7965",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 176,
+    "driver_id": 59,
+    "make": "Honda",
+    "model": "Innova",
+    "year": 2021,
+    "registration_number": "MH28XW7103",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 177,
+    "driver_id": 968,
+    "make": "Mahindra",
+    "model": "Swift",
+    "year": 2020,
+    "registration_number": "MH17LH7971",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 178,
+    "driver_id": 160,
+    "make": "Honda",
+    "model": "Tiago",
+    "year": 2023,
+    "registration_number": "MH70HE9614",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 179,
+    "driver_id": 174,
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "year": 2019,
+    "registration_number": "MH18KV8762",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 180,
+    "driver_id": 288,
+    "make": "Maruti Suzuki",
+    "model": "Tiago",
+    "year": 2018,
+    "registration_number": "MH90TW3065",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 181,
+    "driver_id": 531,
+    "make": "Honda",
+    "model": "City",
+    "year": 2023,
+    "registration_number": "MH60MI5281",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 182,
+    "driver_id": 840,
+    "make": "Mahindra",
+    "model": "Ertiga",
+    "year": 2018,
+    "registration_number": "MH68IX6089",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 183,
+    "driver_id": 417,
+    "make": "Toyota",
+    "model": "Swift",
+    "year": 2023,
+    "registration_number": "MH11RM1865",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 184,
+    "driver_id": 875,
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "year": 2021,
+    "registration_number": "MH88OL2101",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 185,
+    "driver_id": 747,
+    "make": "Honda",
+    "model": "Ertiga",
+    "year": 2021,
+    "registration_number": "MH68GX4886",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 186,
+    "driver_id": 202,
+    "make": "Tata",
+    "model": "Nexon",
+    "year": 2022,
+    "registration_number": "MH59UW6587",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 187,
+    "driver_id": 288,
+    "make": "Maruti Suzuki",
+    "model": "Creta",
+    "year": 2023,
+    "registration_number": "MH95VD4545",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 188,
+    "driver_id": 169,
+    "make": "Honda",
+    "model": "Fortuner",
+    "year": 2019,
+    "registration_number": "MH72EA4166",
+    "color": "Grey"
+  },
+  {
+    "vehicle_id": 189,
+    "driver_id": 455,
+    "make": "Honda",
+    "model": "City",
+    "year": 2021,
+    "registration_number": "MH64MA9630",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 190,
+    "driver_id": 84,
+    "make": "Hyundai",
+    "model": "Tiago",
+    "year": 2021,
+    "registration_number": "MH88JM2232",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 191,
+    "driver_id": 157,
+    "make": "Toyota",
+    "model": "Creta",
+    "year": 2024,
+    "registration_number": "MH23MT4306",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 192,
+    "driver_id": 655,
+    "make": "Maruti Suzuki",
+    "model": "Creta",
+    "year": 2022,
+    "registration_number": "MH65NR3333",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 193,
+    "driver_id": 289,
+    "make": "Mahindra",
+    "model": "Creta",
+    "year": 2021,
+    "registration_number": "MH88ZO3216",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 194,
+    "driver_id": 997,
+    "make": "Maruti Suzuki",
+    "model": "Innova",
+    "year": 2023,
+    "registration_number": "MH57YI7379",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 195,
+    "driver_id": 503,
+    "make": "Toyota",
+    "model": "XUV500",
+    "year": 2024,
+    "registration_number": "MH24KD2050",
+    "color": "Black"
+  },
+  {
+    "vehicle_id": 196,
+    "driver_id": 233,
+    "make": "Mahindra",
+    "model": "XUV500",
+    "year": 2023,
+    "registration_number": "MH32NX1041",
+    "color": "Red"
+  },
+  {
+    "vehicle_id": 197,
+    "driver_id": 918,
+    "make": "Tata",
+    "model": "Nexon",
+    "year": 2023,
+    "registration_number": "MH55DO2114",
+    "color": "White"
+  },
+  {
+    "vehicle_id": 198,
+    "driver_id": 29,
+    "make": "Toyota",
+    "model": "City",
+    "year": 2019,
+    "registration_number": "MH70NG1015",
+    "color": "Blue"
+  },
+  {
+    "vehicle_id": 199,
+    "driver_id": 389,
+    "make": "Maruti Suzuki",
+    "model": "City",
+    "year": 2022,
+    "registration_number": "MH29AX9377",
+    "color": "Silver"
+  },
+  {
+    "vehicle_id": 200,
+    "driver_id": 463,
+    "make": "Hyundai",
+    "model": "Creta",
+    "year": 2019,
+    "registration_number": "MH91RE8605",
+    "color": "White"
+  }
+]
