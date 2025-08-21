@@ -45,13 +45,21 @@ void driver::driverLookForRiders(const User &driver) {
         cout << "No riders currently looking for a ride.\n";
         return;
     }
-
-    cout << "\nAvailable Riders:\n";
-    for (size_t i = 0; i < available.size(); ++i) {
-        cout << i + 1 << ". " << available[i]["full_name"]
-             << " (Status: " << available[i]["status"] << ")\n";
+    vector<json> requestedRiders;
+    for (const auto& rider : available) {
+        if (rider["status"] == "Pending"|| rider["status"]=="Requested") {
+            requestedRiders.push_back(rider);
+        }
     }
-
+    if (requestedRiders.empty()) {
+        cout << "No ride requests available at the moment.\n";
+        return;
+    }
+    cout << "\nRide Requests (Status: requested):\n";
+    for (size_t i = 0; i < requestedRiders.size(); ++i) {
+        cout << i + 1 << ". " << requestedRiders[i]["full_name"]
+             << " (Status: " << requestedRiders[i]["status"] << ")\n";
+    }
     int choice;
     cout << "Select a rider number to respond (0 to cancel): ";
     cin >> choice;

@@ -1,5 +1,4 @@
 #include <iostream>
-// #include <iomanip>
 #include "../external/json.hpp"
 #include "../models/Vehicle.h"
 #include "../models/Ride.h"
@@ -16,7 +15,7 @@ void rider::addRiderToAvailable(const User &rider) {
         available = json::array();
 
     for (auto &r : available) {
-        if (r["user_id"] == rider.user_id) {
+        if (r["user_id"] == rider.user_id && r["status"] == "Pending") {
             cout << "You are already waiting for a ride.\n";
             return;
         }

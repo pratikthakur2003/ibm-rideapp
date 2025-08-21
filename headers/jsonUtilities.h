@@ -26,9 +26,17 @@ class jsonUtilities
     void loadUsers(const std::string &filename);
     void loadVehicles(const std::string &filename);
     void loadRides(const std::string &filename);
+
+    int getNextUserId();
+    bool emailExists(const std::string &email);
+    User registerUser(const std::string &full_name,
+        const std::string &email,
+        const std::string &phone,
+        const std::string &role);
 };
 
 extern jsonUtilities j;
 extern std::string availableRidersFile;
+extern std::string usersFile;
 
 #endif

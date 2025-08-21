@@ -4,6 +4,7 @@ using namespace std;
 
 jsonUtilities j;
 std::string availableRidersFile = "files/available_riders.json";
+std::string usersFile = "files/users.json";
 
 json jsonUtilities::loadJson(const string &filename)
 {
@@ -33,7 +34,6 @@ void jsonUtilities::loadUsers(const string &filename)
         u.email = item["email"];
         u.phone = item["phone"];
         u.role = item["role"];
-        u.created_at = item["created_at"];
         if (u.role == "rider")
             riders.push_back(u);
         else if (u.role == "driver")
@@ -80,4 +80,67 @@ void jsonUtilities::loadRides(const string &filename)
         r.ratings = item["ratings"];
         rides.push_back(r);
     }
+}
+
+int jsonUtilities::getNextUserId()
+{
+    json users = loadJson(usersFile);
+    int maxId = 0;
+    if (users.is_array())
+    {
+        for (auto &item : users)
+        {
+            int id = item.value("user_id", 0);
+            if (id > maxId)
+                maxId = id;
+        }
+    }
+    return maxId + 1;
+}
+
+bool jsonUtilities::emailExists(const std::string &email)
+{
+    json users = loadJson(usersFile);
+    if (users.is_array())
+    {
+        for (auto &item : users)
+        {
+            if (item.value("email", std::string()) == email)
+                return true;
+        }
+    }
+    return false;
+}
+
+User jsonUtilities::registerUser(const std::string &full_name, const std::string &email, const std::string &phone, const std::string &role)
+{
+    json users = loadJson(usersFile);
+    if (!users.is_array())
+        users = json::array();
+
+    int newId = getNextUserId();
+
+    json newUser = {
+        {"user_id", newId},
+        {"full_name", full_name},
+        {"email", email},
+        {"phone", phone},
+        {"role", role}};
+
+    users.push_back(newUser);
+    saveJson(usersFile, users);
+
+    User u;
+    u.user_id = newId;
+    u.full_name = full_name;
+    u.email = email;
+    u.phone = phone;
+    u.role = role;
+ 
+    if (role == "rider")
+        riders.push_back(u);
+    else if (role == "driver")
+        drivers.push_back(u);
+
+    return u;
 }
